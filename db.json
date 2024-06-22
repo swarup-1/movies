@@ -1,21 +1,11 @@
 {
-  "movies":[
+  "products":[
     {
-      "id":1,
-      "Title": "Moonlight",
-      "Year": "2016",
-      "Released": "18 Nov 2016",
-      "Runtime": "111 min",
-      "Genre": "Drama",
-      "Director": "Barry Jenkins",
-      "Writer": "Barry Jenkins, Tarell Alvin McCraney",
-      "Actors": "Mahershala Ali, Naomie Harris, Trevante Rhodes",
-      "Plot": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "Won 3 Oscars. 222 wins & 280 nominations total",
-      "imdbRating": "7.4",
-      "imdbID": "tt4975722"
+      "id": 1,
+      "img": "https://p.rmjo.in/productSquare/em6h6xgy-500x500.jpg",
+      "title": "Stuart Study Table",
+      "price": "149",
+      "o_price": "72"
     }
   ]
 }
